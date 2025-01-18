@@ -1,0 +1,13 @@
+{
+    "version": "1.41.1",
+    "configurations": [
+        {
+            "name": "Streamlit",
+            "type": "python",
+            "request": "launch",
+            "module": "streamlit",
+            "args": ["run", "estimation_app.py"],
+            "console": "integratedTerminal"
+        }
+    ]
+}
